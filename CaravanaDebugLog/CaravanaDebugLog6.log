@@ -1,0 +1,96 @@
+[Screens.ScreenManager]: Adding screen Title Screen
+[Screens.ScreenManager]: Screens: [Title Screen: Active]
+[PlayerModel]: Awake, seed is 98916669
+[Screens.ScreenManager]: Loading new scene Dialog, dropping all current scenes
+[Screens.ScreenManager]: Removing screen Title Screen
+[Screens.ScreenManager]: Screens: []
+[Screens.Dialog.DialogBase]: Adding this scene's Dialog Screen
+[Screens.Dialog.DialogScreen]: Loading dialog file Assets/Dialogs/Dialog1.txt
+[Screens.ScreenManager]: Adding screen Dialog Screen
+[Screens.ScreenManager]: Screens: [Dialog Screen: Active]
+[Screens.ScreenManager]: Loading new scene Desert, dropping all current scenes
+[Screens.Desert.DesertBase]: Adding this scene's PlaceScreen
+[Screens.ScreenManager]: Adding screen Desert Screen
+[Screens.ScreenManager]: Screens: [Desert Screen: Active]
+[Screens.Platform_Screen.Enemy]: Faded found target Player
+[Screens.Platform_Screen.Enemy]: Faded (1) found target Player
+[Screens.Platform_Screen.Enemy]: Faded found target Player
+[Screens.Platform_Screen.Enemy]: Faded (1) found target Player
+[Screens.Platform_Screen.Enemy]: Faded (2) found target Player
+[Screens.Platform_Screen.Enemy]: Faded (2) found target Player
+[Screens.Platform_Screen.Enemy]: Faded (1) found target Player
+[Screens.Platform_Screen.Enemy]: Faded found target Player
+[Screens.Platform_Screen.Enemy]: Faded (2) found target Player
+[Screens.Platform_Screen.Enemy]: Faded (1) found target Player
+[Screens.Platform_Screen.Enemy]: Faded (2) found target Player
+[Screens.Platform_Screen.Enemy]: Faded (1) found target Player
+[Screens.Platform_Screen.Enemy]: Faded (2) found target Player
+[Screens.Platform_Screen.Enemy]: Faded (2) found target Player
+[Screens.Platform_Screen.Enemy]: Faded (1) found target Player
+[Screens.Platform_Screen.Enemy]: Faded found target Player
+[Screens.Platform_Screen.Enemy]: Faded found target Player
+[Screens.Platform_Screen.Enemy]: Faded found target Player
+[Screens.ScreenManager]: Loading new scene Dialog, dropping all current scenes
+[Screens.Dialog.DialogBase]: Adding this scene's Dialog Screen
+[Screens.Dialog.DialogScreen]: Loading dialog file Assets/Dialogs/Dialog2.txt
+[Screens.ScreenManager]: Adding screen Dialog Screen
+[Screens.ScreenManager]: Screens: [Dialog Screen: Active]
+[Screens.ScreenManager]: Loading new scene Desert, dropping all current scenes
+*******************************************************
+[Screens.ScreenManager]: Unhandled Exception!
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+  at Assets.Scripts.Screens.Dialog.DialogScreen.ControlledUpdate () [0x00008] in C:\code\Caravana\Caravana\Assets\Scripts\Screens\Dialog\DialogScreen.cs:47 
+  at Assets.Scripts.Screens.ScreenManager.Update () [0x000b6] in C:\code\Caravana\Caravana\Assets\Scripts\Screens\ScreenManager.cs:64 
+[Screens.Desert.DesertBase]: Adding this scene's PlaceScreen
+[Screens.ScreenManager]: Adding screen Desert Screen
+[Screens.ScreenManager]: Screens: [Desert Screen: Active]
+[Screens.Platform_Screen.Enemy]: Faded found target Player
+[Screens.Platform_Screen.Enemy]: Faded (1) found target Player
+[Screens.Platform_Screen.Enemy]: Faded found target Player
+[Screens.Platform_Screen.Enemy]: Faded(Clone) found target Player
+[Screens.Platform_Screen.Enemy]: Faded(Clone) found target Player
+[Screens.Platform_Screen.Enemy]: Faded (1) found target Player
+[Screens.Platform_Screen.Enemy]: Faded(Clone) found target Player
+[Screens.Platform_Screen.Enemy]: Faded (2) found target Player
+[Screens.Platform_Screen.Enemy]: Faded (2) found target Player
+[Screens.Platform_Screen.Enemy]: Faded(Clone) found target Player
+[Screens.Platform_Screen.Enemy]: Faded(Clone) found target Player
+[Screens.Platform_Screen.Enemy]: Faded(Clone) found target Player
+[Screens.Platform_Screen.Enemy]: Faded (2) found target Player
+[Screens.Platform_Screen.Enemy]: Faded(Clone) found target Player
+[Screens.Platform_Screen.Enemy]: Faded(Clone) found target Player
+[Screens.Platform_Screen.Enemy]: Faded(Clone) found target Player
+[Screens.Platform_Screen.Enemy]: Faded(Clone) found target Player
+[Screens.Platform_Screen.Enemy]: Faded(Clone) found target Player
+[Screens.Platform_Screen.Enemy]: Faded(Clone) found target Player
+[Screens.Platform_Screen.Enemy]: Faded(Clone) found target Player
+[Screens.Platform_Screen.Enemy]: Faded(Clone) found target Player
+[Screens.Platform_Screen.Enemy]: Faded(Clone) found target Player
+[Screens.Platform_Screen.Enemy]: Faded(Clone) found target Player
+[Screens.Platform_Screen.Enemy]: Faded(Clone) found target Player
+[Screens.Platform_Screen.Enemy]: Faded (2) found target Player
+[Screens.Platform_Screen.Enemy]: Faded (1) found target Player
+[Screens.Platform_Screen.Enemy]: Faded(Clone) found target Player
+[Screens.Platform_Screen.Enemy]: Faded (2) found target Player
+[Screens.Platform_Screen.Enemy]: Faded (1) found target Player
+[Screens.Platform_Screen.Enemy]: Faded (2) found target Player
+[Screens.Platform_Screen.Enemy]: Faded found target Player
+[Screens.Platform_Screen.Enemy]: Faded (1) found target Player
+[Screens.Platform_Screen.Enemy]: Faded (1) found target Player
+[Screens.Platform_Screen.Enemy]: Faded found target Player
+[Screens.Platform_Screen.Enemy]: Faded found target Player
+[Screens.Platform_Screen.Enemy]: Faded found target Player
+[Screens.ScreenManager]: Loading new scene Dialog, dropping all current scenes
+[Screens.Dialog.DialogBase]: Adding this scene's Dialog Screen
+[Screens.Dialog.DialogScreen]: Loading dialog file Assets/Dialogs/Dialog3.txt
+[Screens.ScreenManager]: Adding screen Dialog Screen
+[Screens.ScreenManager]: Screens: [Dialog Screen: Active]
+[Screens.ScreenManager]: Loading new scene Desert, dropping all current scenes
+*******************************************************
+[Screens.ScreenManager]: Unhandled Exception!
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+  at Assets.Scripts.Screens.Dialog.DialogScreen.ControlledUpdate () [0x00008] in C:\code\Caravana\Caravana\Assets\Scripts\Screens\Dialog\DialogScreen.cs:47 
+  at Assets.Scripts.Screens.ScreenManager.Update () [0x000b6] in C:\code\Caravana\Caravana\Assets\Scripts\Screens\ScreenManager.cs:64 
+[Screens.Desert.DesertBase]: Adding this scene's PlaceScreen
+[Screens.ScreenManager]: Adding screen Desert Screen
+[Screens.ScreenManager]: Screens: [Desert Screen: Active]

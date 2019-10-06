@@ -1,0 +1,17 @@
+[Screens.ScreenManager]: Adding screen Title Screen
+[Screens.ScreenManager]: Screens: [Title Screen: Active]
+[PlayerModel]: Awake, seed is 908992138
+[Screens.ScreenManager]: Loading new scene Dialog, dropping all current scenes
+[Screens.ScreenManager]: Removing screen Title Screen
+[Screens.ScreenManager]: Screens: []
+[Screens.Dialog.DialogBase]: Adding this scene's Dialog Screen
+[Screens.Dialog.DialogScreen]: Loading dialog file Assets/Dialogs/Dialog1.txt
+[Screens.ScreenManager]: Adding screen Dialog Screen
+[Screens.ScreenManager]: Screens: [Dialog Screen: Active]
+[Screens.ScreenManager]: Loading new scene Desert, dropping all current scenes
+[Screens.Desert.DesertBase]: Adding this scene's PlaceScreen
+[Screens.ScreenManager]: Adding screen Desert Screen
+[Screens.ScreenManager]: Screens: [Desert Screen: Active]
+[Screens.Platform_Screen.Enemy]: Faded found target Player
+[Screens.Platform_Screen.Enemy]: Faded (2) found target Player
+[Screens.Platform_Screen.Enemy]: Faded (1) found target Player

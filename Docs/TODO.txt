@@ -1,0 +1,38 @@
+TODO list. Game jamming!
+
+xx Logging script
+xx Screens and screen manager
+xx Title screen
+Character
+  xx movement
+    xx basic movement
+    xx better jump movement0
+  xx physics
+  xx dagger combat - directional
+  xx health
+Enemies
+  xx combat
+  xx simple pattern attacks
+  Enemy spawning
+  xx gold and other pickups
+xx Camels
+Script system
+xx "victory" conditions for each desert scene
+Trade hubs
+Trade missions
+heat, water
+trade route selection
+Bow
+spear
+Shield?
+Magic?
+water, heat upgrades
+story
+
+
+
+-0.53799, -0.38074
+-1.48
+
+0.37588, 0.19093
+-0.36

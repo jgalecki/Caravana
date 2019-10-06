@@ -1,0 +1,23 @@
+x You reach the oasis in one piece.
+z What were those things?
+Saul The Faded?
+Soliel Bits of faded dreams and memories, raging against time and nothingness.
+Saul When a person dies, their memory lives on through those they knew in life.
+Saul But as time goes on, their friends and family grow old and memories of the person dim.
+Saul In time, the person's life will be forgotten and the spirit will fade to non-existence.
+Saul Most accept this.
+Saul Some spirits grow restless at the prospect. 
+Soliel Others grow violent and take out their anger on anything passing by.
+Soliel They wander the desert aimlessly.
+Saul The desert Lum is a dangerous place, especially for the unprepared.
+Soliel But the prepared can make a fortune by crossing the dangerous wastes.
+Soliel The second sun is setting, night is coming at last.
+Soliel We shall rest here and leave in the morning.
+x You spend the night on a comfortable bed roll.
+x You sleep a dreamless sleep.
+x You wake up and prepare for the day's journey.
+Soliel We leave for the city of Haghreb. The city has a thousand and one wonders waiting for travelers.
+Saul And a thousand and one deals to be made. 
+x The camels are packed and ready to go. You set off.
+x The hours wander as Saul and Soliel pass the time trading stories.
+x You see another group of Faded approaching.

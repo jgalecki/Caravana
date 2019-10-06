@@ -1,0 +1,50 @@
+x You hear distant voices approaching.
+??? Thank the sun we made it out alive.
+??? Aye, but at what cost?
+??? We lost half our camels and all the guards
+??? And the next oasis is a half day's journey still.
+x The air is hot, and the sun is beating down on you.
+??? Yes, but perhaps our good fortune will hold out a little bit longer.
+??? Fortune? You call this good fortune?
+x You are thirstier than you ever remember being.
+??? To be alive is a blessing, Saul.
+??? And it is not for us to choose the hour of our passing.
+x The voices are close by. You hear animals grunting.
+??? Hold up! I think that's a person!
+Saul A bandit, most likely. We should not take the risk, Soliel.
+Soliel Can we afford not to? We have a long ways to go. Perhaps he can help.
+Soliel Ahoy there!
+x You are greeted by Soliel and his caravan.
+x A train of heavily-laden camels follows behind two haggard-looking travelers.
+Soliel What is your name?
+z I.. I don't remember...
+Saul No name, eh?
+Saul (whispered, to Soliel) Seems suspicious.
+Soliel (whispered, in reply) Do we have a choice?
+Soliel Stranger, I think we can come to a beneficial arrangement.
+Soliel You are in the middle of the desert, waterless, foodless, nameless.
+Soliel If you agree to help us reach the next town, we will provide you with all three.
+Soliel We have a chest bearing the finest names in the seven Houses.
+Soliel Heroes, kings, high priests, dragonslayers...
+Saul Not that we can give you those ones.
+Saul We need those to trade.
+Saul But we have a perfectly servicable name we could give you.
+Soliel He speaks true, stranger.
+Soliel It's a good name, if a little out of style.
+Saul I prefer the term "broken-in".
+Saul Will you help us?
+x You agree to accompany the merchants.
+x They provide you with water, a robe, and a rusty dagger.
+Soliel That's no ordinary dagger!
+Soliel It was a favorite weapon of Blind Boras, the thief of song and legend.
+Soliel He used this dagger to assassinate the tyrant king of Atrosia.
+x The dagger looks like it wouldn't cut through bread.
+Soliel The people cheered and tried to crown him king, but he managed to escape the palace-city by moonlight.
+Saul He wasn't really blind, you know.
+Soliel (whispered, to Saul) Shush. Don't let facts get in the way of a good story.
+x After resting for a few more minutes, the caravan departs.
+x The sun is setting in front of you.
+x Looking back, you notice another sun rising behind.
+Saul Look ahead! The Faded are coming!
+Soliel Stranger, time to prove your worth.
+x Strange figures are approaching the caravan.
